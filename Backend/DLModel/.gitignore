@@ -1,0 +1,5 @@
+PlantVillage/
+model/
+.ipynb_checkpoints/
+*.h5
+*.hdf5
